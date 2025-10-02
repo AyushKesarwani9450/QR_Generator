@@ -1,3 +1,5 @@
+# pip install qrcode[pil] # Install the qrcode library with PIL support
+
 import qrcode
 
 # Data to encode
