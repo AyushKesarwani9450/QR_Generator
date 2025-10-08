@@ -1,0 +1,28 @@
+Create a New Repository on GitHub
+copy the repository URL from it
+https://github.com/your-username/your-repository-name.git 
+ Push Your Code from VS Code
+ project folder in VS Code.
+
+  Initialize Git  ::  git init
+
+  Add all your files for tracking  ::  git add .
+
+  Commit your files  ::  git commit -m "Initial commit"
+
+  Rename your branch to 'main' (Best Practice)  :: git branch -M main
+
+  Add the remote repository  ::  git remote add origin https://github.com/your-username/your-repository-name.git
+
+  Push your code to GitHub  ::  git push -u origin main
+
+
+
+  or  
+
+
+  git init
+  git remote add origin https://github.com/your-username/your-repository-name.git
+  git add .
+  git commit -m "Initail commit"
+  git push -u origin main
